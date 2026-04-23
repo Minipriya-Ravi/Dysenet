@@ -17,7 +17,7 @@ The proposed dysenet classifier predicts the severity at the frame level. This r
 please cite our work:
 ```bibtex
 @article{dysenet2026,
-  title={A novel Convolutional Neural Network based minimalistic dysarthric speech segment classification using psycho-acoustic feature},
+  title={Dysenet: A minimalistic Dysarthric speech segment severity classifier using psycho-acoustic feature},
   author={Minipriya R and Poonkuzhali S},
   journal={submitted for consideration in CSSP},
   year={2026}
