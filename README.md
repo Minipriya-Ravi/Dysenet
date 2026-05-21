@@ -19,6 +19,6 @@ please cite our work:
 @article{dysenet2026,
   title={Dysenet: A minimalistic Dysarthric speech segment severity classifier using psycho-acoustic feature},
   author={Minipriya R and Poonkuzhali S},
-  journal={submitted for consideration in Computer Speech & Language },
+  journal={submitted for consideration in Speech Communication },
   year={2026}
 }
