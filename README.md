@@ -17,7 +17,7 @@ The proposed dysenet classifier predicts the severity at the frame level. This r
 please cite our work:
 ```bibtex
 @article{dysenet2026,
-  title={Dysenet: A minimalistic Dysarthric speech segment severity classifier using psycho-acoustic feature},
+  title={Dysenet: A segment level severity classification approach for identifying sound-specific speech challenges in dysarthric speech},
   author={Minipriya R and Poonkuzhali S},
   journal={submitted for consideration in International Journal of Speech-Language Pathology },
   year={2026}
